@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/isodoa/static/js/main.8a72439c.js",
+    "static/media/new3.png": "/isodoa/static/media/new3.ef599804290a7ff1e690.png",
+    "static/media/new1.png": "/isodoa/static/media/new1.99f57d3c19b986e14fbe.png",
+    "static/media/1.png": "/isodoa/static/media/1.ab4e958974d1bf34ea8b.png",
+    "static/media/new2.png": "/isodoa/static/media/new2.17df7850964a44675886.png",
+    "index.html": "/isodoa/index.html",
+    "main.8a72439c.js.map": "/isodoa/static/js/main.8a72439c.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8a72439c.js"
+  ]
+}
